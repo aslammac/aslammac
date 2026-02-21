@@ -1,14 +1,61 @@
-# 💫 About Me:
-👨‍💻 Experienced in Flutter, Next.js, Nest.js, Node.js, and Go.<br>🎨 Skilled in UI/UX design for intuitive and engaging user experiences.<br>🚀 Proficient with MongoDB, PostgreSQL, MySQL, Docker, and AWS.<br>🔍 Always exploring new technologies and improving my craft.
+# Hey, I'm Aslam 👋
 
+> **Full-Stack Engineer · SDK Architect · AI Builder**  
+> Based in Abu Dhabi, UAE 🇦🇪
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aslam_mac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aslam-c) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aslammac) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Complex-Bee5044) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aslam-c) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aslammac) 
+---
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=flat&logo=deno&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
+I'm a full-stack developer with **6+ years** of experience building everything from high-performance browser SDKs to AI-powered automation systems. I architect web SDKs that have processed **195M+ facial transactions** and serve **40+ enterprise partners** across banking, government, and retail sectors.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aslammac&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I care deeply about performance, clean architecture, and shipping things that actually work at scale.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠 What I Work With
+
+**Languages**  
+TypeScript · JavaScript · Dart · Python · Go
+
+**Frontend & Mobile**  
+React · Next.js · Flutter · TailwindCSS · Three.js · WebAssembly
+
+**Backend**  
+Node.js · Nest.js · FastAPI · Express · Socket.io
+
+**AI & Automation**  
+LangChain · LangGraph · RAG · n8n · MCP · OpenAI · Anthropic · Gemini · Ollama · TensorFlow
+
+**Databases**  
+PostgreSQL · MongoDB · Qdrant · MySQL · Supabase · Firebase · ScyllaDB
+
+**Cloud & DevOps**  
+AWS (EC2, S3, Lambda, SQS, RDS, API Gateway) · Docker · GitHub Actions · GCP · CI/CD
+
+---
+
+## 🚀 What I've Built
+
+- 🔐 **Face Liveness & OCR SDKs** — Browser-based SDKs for biometric face capture, active liveness detection, and document scanning (Emirates ID & passport) deployed across 40+ enterprise partners with 195M+ transactions processed
+- 🏗 **Platform Engineering Product** — Led full-stack development of a cloud platform using FastAPI, Next.js, PostgreSQL & ScyllaDB
+- 🏦 **Banking & Insurance Microservices** — Scalable Nest.js microservices for card issuance and insurance platforms serving enterprise clients in the US and Europe
+- 🗳 **Real-Time Election Communication App** — Supported development of a live coordination platform for district-level election agents
+- 🎟 **Full-Stack Ticket Booking System** — End-to-end solution built with PHP Symfony and PostgreSQL
+- 🛒 **B2B E-commerce Platform** — Cross-platform mobile app in Flutter with a Next.js admin console
+
+---
+
+## ✍️ Beyond the Code
+
+- 📦 Open-source Flutter packages on [pub.dev](https://pub.dev/publishers/claviertech.xyz/packages)
+- 📝 Writing about tech on [Medium](https://aslammac.medium.com)
+- 🎨 Background in UI/UX, motion graphics, and video production (yes, really)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aslam--c-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aslam-c)
+[![Medium](https://img.shields.io/badge/Medium-aslammac-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@aslammac)
+[![X](https://img.shields.io/badge/X-aslammac-000000?style=flat&logo=x&logoColor=white)](https://x.com/aslammac)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-aslam--c-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aslam-c)
+[![Email](https://img.shields.io/badge/Email-aslammac7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aslammac7@gmail.com)
