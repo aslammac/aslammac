@@ -5,9 +5,12 @@
 
 ---
 
-I'm a full-stack developer with **6+ years** of experience building everything from high-performance browser SDKs to AI-powered automation systems. I architect web SDKs that have processed **195M+ facial transactions** and serve **40+ enterprise partners** across banking, government, and retail sectors.
+I'm a full-stack developer with **7+ years** of experience building everything from high-performance browser SDKs to AI-powered automation systems. I architect web SDKs that have processed **195M+ facial transactions** and serve **40+ enterprise partners** across banking, government, and retail sectors.
 
 I care deeply about performance, clean architecture, and shipping things that actually work at scale.
+
+---
+🌐 **[View my portfolio at aslam.live](https://aslam.live)** | [LinkedIn](https://linkedin.com/in/aslam-c) | [Medium](https://aslammac.medium.com)
 
 ---
 
