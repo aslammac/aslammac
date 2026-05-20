@@ -33,7 +33,7 @@ AWS (EC2, S3, Lambda, SQS, RDS, API Gateway) · Docker · GitHub Actions · GCP 
 
 ---
 
-## 🚀 What I've Built
+## What I've Built
 
 - 🔐 **Face Liveness & OCR SDKs** — Browser-based SDKs for biometric face capture, active liveness detection, and document scanning (Emirates ID & passport) deployed across 40+ enterprise partners with 195M+ transactions processed
 - 🏗 **Platform Engineering Product** — Led full-stack development of a cloud platform using FastAPI, Next.js, PostgreSQL & ScyllaDB
@@ -44,7 +44,7 @@ AWS (EC2, S3, Lambda, SQS, RDS, API Gateway) · Docker · GitHub Actions · GCP 
 
 ---
 
-## ✍️ Beyond the Code
+## Beyond the Code
 
 - 📦 Open-source Flutter packages on [pub.dev](https://pub.dev/publishers/claviertech.xyz/packages)
 - 📝 Writing about tech on [Medium](https://aslammac.medium.com)
